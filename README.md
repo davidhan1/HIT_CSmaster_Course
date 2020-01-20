@@ -10,7 +10,7 @@
 平时课去不去区别不大，嘘_(:з」∠)_ 但是实验一定亲自做，而且要理解。当时Parzen窗我自己写都理解了很久才明白，不复现是肯定理解有偏差的。还有反向传播这种级别算法推导就不需要多说了吧。另外，打印店的资料有些鱼龙混杂，试题没写学校的很多是网上随便搜的，因此不要一股脑看见题就乱刷。
 ##### 实验
 实验一 https://github.com/HuiyanWen/ParzenWindow-PR_Experiment
-实验二 https://github.com/HuiyanWen/BP_Network
+<br>实验二 https://github.com/HuiyanWen/BP_Network
 ##### PS
 教材编写的内容很全，涵盖了理论证明，可能对初学者不太友好，但如果能硬着头皮啃下来，收获是很大很大的。书中编写有一些错误，不过总体还凑合。
 
